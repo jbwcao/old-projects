@@ -1,7 +1,8 @@
 A collection of some of my previous projects, mostly from my high school days\
 Each folder constitutes a seperate project
 
-In alphabetical order:\
+In alphabetical order:
+
 **Arduino Piano**\
 An Arduino Sketch that I used in the creation of a piano that played tones via button presses corresponding to the digital pins on an Arduino\
 Octave changes via pins 0 and 12 (down and up an octave, respectively)\
@@ -18,7 +19,10 @@ An image compression algorithm that uses low-rank approximation to compress imag
 
 **Perfect Circle**\
 An automatic tool for drawing perfect circles on 1920 x 1080 displays.\
-In particular, I made this to draw a perfect circle on the neal.fun draw a perfect circle website. This program achieves 99.9%, (I believe 100% may be impossible because of rounding).
+In particular, I made this to draw a 100% perfect circle on the neal.fun draw a perfect circle website. 
+
+**Weather Tower**\
+Code for the Raspberry Pi governing a weather tower that uses a BME280, DS3231, and an anenomemter to accurately record several types of weather data
 
 **Word Game Solver**\
 Takes a set of characters and returns words of varying lengths that can be made from unscrabling those chracters\
